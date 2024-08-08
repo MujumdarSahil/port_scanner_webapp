@@ -43,4 +43,6 @@ HTML/CSS: For building the frontend GUI.
 Socket Programming: For performing network operations and port scanning.
 Threading: To optimize the scanning process by running multiple port checks concurrently.
 
+This project is licensed under the MIT License. Feel free to modify and distribute as needed.
+
 ![Bg](https://github.com/user-attachments/assets/07e0e5fb-b056-4d42-91fc-7403693cf0e5)
